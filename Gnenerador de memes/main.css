@@ -1,0 +1,28 @@
+body{
+ color:black;
+}
+.generador{
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+
+.generador img{
+    height: 500px;
+    width: 500px;
+    object-fit: contain;
+
+}
+
+.generador .generar-meme-btn{
+padding: 8px 20px;
+border: none;
+margin: 24px 0;
+font-size: 20px;
+color: rgb(231, 76, 179);
+cursor: pointer;
+position: relative;
+background-color: rgb(255, 255, 0);
+}
+.generador .autor {
+    margin: 8px;
+}
